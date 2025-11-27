@@ -52,3 +52,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:caseyk@shaw.ca"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Casey-e-k"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/caseykrombein"

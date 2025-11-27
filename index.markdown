@@ -3,18 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-sidebar:
-  nav: "docs"
 title: About Me
-classes: wide
-
-gallery:
-
-header:
-
-author_profile: true
 ---
 
 # About Me
-
 test

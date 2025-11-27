@@ -1,7 +1,7 @@
 ---
 layout: single
-title: UBC Orbit Satellite Design Team
-permalink: /docs/projects/orbit/
+title: Robot
+permalink: /docs/projects/Robot/
 sidebar:
   nav: "docs"
 classes: wide

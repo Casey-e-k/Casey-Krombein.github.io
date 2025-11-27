@@ -27,9 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://casey-e-k.github.io/Casey-Krombein.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.

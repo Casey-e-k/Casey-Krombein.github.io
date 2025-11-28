@@ -8,7 +8,9 @@ sidebar:
 title: About Me
 classes: wide
 
-gallery: []
+gallery:
+    - url: /images/headers/FullMoon2010.jpg
+      image_path: /images/headers/FullMoon2010.jpg
 
 header:
   overlay_image: /images/headers/FullMoon2010.jpg

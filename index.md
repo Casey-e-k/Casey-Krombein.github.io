@@ -13,7 +13,7 @@ gallery:
       image_path: /images/about_images/FullMoon2010.jpg
 
 header:
-  overlay_image: /images/headers/moon.jpg
+  overlay_image: /images/headers/moon.jpeg
 
 author_profile: true
 ---

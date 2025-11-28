@@ -8,6 +8,9 @@ sidebar:
 title: About Me
 classes: wide
 
+header:
+  overlay_image: /images/headers/test.jpg
+
 author_profile: true
 ---
 

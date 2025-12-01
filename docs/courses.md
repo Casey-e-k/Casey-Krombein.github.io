@@ -49,7 +49,7 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*
 | PHYS 408*   | Optics                                            |tbd          |
 
 
-## Astrophysics
+## Astronomy/Astrophysics
 
 | Course Code | Course Name                                       | Description |
 |-------------|---------------------------------------------------|-------------|
@@ -89,8 +89,8 @@ _Courses currently enrolled in for the 2025-2026 academic year indicated by \*
 
 | Course Code | Course Name                                       | Description |
 |-------------|---------------------------------------------------|-------------|
-| WRDS 150B   | Introduction to Instrument Design                 |tbd          |
-| LING 101    | Engineering Physics Project I                     |tbd          |
-| IGEN 201    | Engineering Physics Project II                    |tbd          |
-| PHIL 462A*  | Engineering Physics Project III                   |tbd          |
+| WRDS 150B   | Writing and Research in the Disciplines           |tbd          |
+| LING 101    | Languages of the World                            |tbd          |
+| IGEN 201    | Integrated Technical Communication                |tbd          |
+| PHIL 462A*  | Space and Time                                    |tbd          |
 

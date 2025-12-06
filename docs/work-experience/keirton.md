@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Keirton Inc
-permalink: /docs/projects/Capstone/
+permalink: /docs/projects/keirton/
 sidebar:
   nav: "docs"
 classes: wide

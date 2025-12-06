@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Ultrasonic Levitation Capstone
-permalink: /docs/projects/Capstone/
+title: Ultrasonic Levitation
+permalink: /docs/projects/Capstone.md
 sidebar:
   nav: "docs"
 classes: wide

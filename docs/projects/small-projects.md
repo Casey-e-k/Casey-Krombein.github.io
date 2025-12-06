@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Small Projects
-permalink: /docs/projects/small-projects.md
+permalink: /docs/projects/small-projects/
 sidebar:
   nav: "docs"
 classes: wide

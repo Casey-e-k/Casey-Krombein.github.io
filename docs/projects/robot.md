@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Autonomous Mario Kart Robot
-permalink: /docs/projects/Autonomous-Mario-Kart-Robot.md
+permalink: /docs/projects/robot.md
 sidebar:
   nav: "docs"
 classes: wide

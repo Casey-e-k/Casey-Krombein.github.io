@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CSMC + Concordia University
-permalink: /docs/projects/CSMC-+-Concordia-University.md
+permalink: /docs/projects/csmc/
 sidebar:
   nav: "docs"
 classes: wide
